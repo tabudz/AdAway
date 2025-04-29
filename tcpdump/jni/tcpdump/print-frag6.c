@@ -33,9 +33,6 @@
 #include "extract.h"
 
 int
-int
-int
-int
 frag6_print(netdissect_options *ndo, register const u_char *bp, register const u_char *bp2)
 {
 	register const struct ip6_frag *dp;
